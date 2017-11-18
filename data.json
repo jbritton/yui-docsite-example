@@ -1,0 +1,172 @@
+{
+    "project": {},
+    "files": {
+        "src/api/api.module.js": {
+            "name": "src/api/api.module.js",
+            "modules": {
+                "api": 1
+            },
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "src/components/primitives/primitives.module.js": {
+            "name": "src/components/primitives/primitives.module.js",
+            "modules": {
+                "components": 1
+            },
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "src/components/components.module.js": {
+            "name": "src/components/components.module.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "src/core/core.module.js": {
+            "name": "src/core/core.module.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "src/routes/routes.module.js": {
+            "name": "src/routes/routes.module.js",
+            "modules": {
+                "routes": 1
+            },
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "src/services/services.module.js": {
+            "name": "src/services/services.module.js",
+            "modules": {
+                "services": 1
+            },
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "src/store/store.module.js": {
+            "name": "src/store/store.module.js",
+            "modules": {
+                "store": 1
+            },
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "src/views/views.module.js": {
+            "name": "src/views/views.module.js",
+            "modules": {
+                "views": 1
+            },
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "src/app.module.js": {
+            "name": "src/app.module.js",
+            "modules": {
+                "app": 1
+            },
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        }
+    },
+    "modules": {
+        "api": {
+            "name": "api",
+            "submodules": {},
+            "elements": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {},
+            "tag": "module",
+            "file": "src/api/api.module.js",
+            "line": 1,
+            "description": "Provides restful services and model helpers."
+        },
+        "components": {
+            "name": "components",
+            "submodules": {},
+            "elements": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {},
+            "tag": "module",
+            "file": "src/components/primitives/primitives.module.js",
+            "line": 2,
+            "description": "Provides primitive design components like labels, buttons, icons, etc."
+        },
+        "routes": {
+            "name": "routes",
+            "submodules": {},
+            "elements": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {},
+            "tag": "module",
+            "file": "src/routes/routes.module.js",
+            "line": 1,
+            "description": "Provides routing configuration and middleware"
+        },
+        "services": {
+            "name": "services",
+            "submodules": {},
+            "elements": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {},
+            "tag": "module",
+            "file": "src/services/services.module.js",
+            "line": 1,
+            "description": "Provides application services"
+        },
+        "store": {
+            "name": "store",
+            "submodules": {},
+            "elements": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {},
+            "tag": "module",
+            "file": "src/store/store.module.js",
+            "line": 1,
+            "description": "Store for application data"
+        },
+        "views": {
+            "name": "views",
+            "submodules": {},
+            "elements": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {},
+            "tag": "module",
+            "file": "src/views/views.module.js",
+            "line": 1,
+            "description": "Application views"
+        },
+        "app": {
+            "name": "app",
+            "submodules": {},
+            "elements": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {},
+            "tag": "module",
+            "file": "src/app.module.js",
+            "line": 1,
+            "description": "The main entry point into the application"
+        }
+    },
+    "classes": {},
+    "elements": {},
+    "classitems": [],
+    "warnings": []
+}
