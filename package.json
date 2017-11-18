@@ -1,0 +1,22 @@
+{
+  "name": "yui-docsite-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doc": "yuidoc ./src",
+    "predocdeploy": "npm run doc",
+    "docdeploy": "gh-pages -d out -b gh-pages",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^1.1.0",
+    "yuidocjs": "^0.10.2"
+  },
+  "dependencies": {
+    "angular": "^1.6.6"
+  }
+}

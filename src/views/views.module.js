@@ -1,0 +1,4 @@
+/**
+ * Application views
+ * @module views
+ */

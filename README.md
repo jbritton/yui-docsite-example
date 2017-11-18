@@ -1,0 +1,1 @@
+Example of how to generate API docs from a UI codebase and publish the docsite to github pages
